@@ -11,6 +11,10 @@ treatment method used are documented within this report.
 Detailed visualization and analysis will be used to arrive at recommendations in the latter part of this 
 report.
 
+## Link to Project Files:
+#### Jupyter notebook: https://github.com/giftomoba/Accident-Database-Analysis-Geo-Spatial-Modeling/blob/main/Accident%20Database%20Analysis%20%26%20Geo-Spatial%20Modelling.ipynb
+#### Project Report: https://github.com/giftomoba/Accident-Database-Analysis-Geo-Spatial-Modeling/blob/main/ACCIDENT%20DATA%20REPORT%20-%20Omeimen.pdf
+
 ### Findings:
 1. Accident significant day and time:
 
